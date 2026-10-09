@@ -2,11 +2,11 @@
 //  This file is a definition file for the older protocol S devices.
 
 LabelDef labelDefs[] = {
-    {0x50, 0, 103, 2, -1, "HP Sensor(kgcm2)"},
-    {0x50, 2, 103, 2, -1, "LP Sensor(kgcm2)"},
+    // {0x50, 0, 103, 2, -1, "HP Sensor(kgcm2)"},
+    // {0x50, 2, 103, 2, -1, "LP Sensor(kgcm2)"},
     {0x53, 0, 152, 2, -1, "EV (pls)"},
-    {0x53, 2, 164, 1, -1, "Outdoor Fan (Upper)(rps)"},
-    {0x53, 3, 164, 1, -1, "Outdoor Fan (Lower)(rps)"},
+    // {0x53, 2, 164, 1, -1, "Outdoor Fan (Upper)(rps)"},
+    // {0x53, 3, 164, 1, -1, "Outdoor Fan (Lower)(rps)"},
     {0x53, 4, 200, 1, -1, "INV Comp. Frequency(Hz)"},
     {0x53, 5, 200, 1, -1, "Comp. Preheat"},
     {0x53, 6, 200, 1, -1, "52C Output"},
